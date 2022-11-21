@@ -1,0 +1,4 @@
+User=root
+password=core2duo
+dburl=jdbc:mysql://localhost:3306/coursejdbc
+useSSL=false
